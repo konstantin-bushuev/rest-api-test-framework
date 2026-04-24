@@ -175,6 +175,8 @@ cd [repo]
 
 mvn clean test
 
+***Важное примечание: Из РФ PetStore недоступен напрямую***
+
 ## Просмотр отчета Allure после выполнения тестов
 
 mvn allure:serve
